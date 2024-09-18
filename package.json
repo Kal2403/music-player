@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "globals": "^15.9.0",
+    "hint": "^7.1.13",
+    "stylelint": "^16.9.0",
+    "stylelint-config-recommended": "^14.0.1"
+  }
+}
