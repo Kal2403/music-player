@@ -39,7 +39,8 @@ Asegúrate de tener instalado:
 
 2. Navega al directorio del proyecto:
 
-  cd music-player
+   ```bash
+     cd music-player
 
 3. Abre el archivo index.html en tu navegador favorito.
 
